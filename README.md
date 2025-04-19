@@ -113,3 +113,11 @@ Contributions are welcome! If you have ideas to improve modeling, visualizations
 
 🪪 License
 This project is licensed under the MIT License.
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Platform](https://img.shields.io/badge/Platform-JupyterLab%20%7C%20Notebook-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Exploratory-blueviolet.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
